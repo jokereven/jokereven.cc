@@ -1,4 +1,4 @@
-[ddiu.io](https://ddiu.io)
+[jojo](https://github.com/jokereven)
 
 ## Credits
 
@@ -6,6 +6,6 @@ Fonts are [Hubot Sans](https://github.com/github/hubot-sans) and [IBM Plex Sans]
 
 Icons are from [Remix Icon](https://github.com/Remix-Design/RemixIcon) and [Fluent Emoji](https://github.com/microsoft/fluentui-emoji).
 
-Source Codes are under [MIT license](https://github.com/ddiu8081/ddiu.me/blob/main/LICENSE).
+Source Codes are under [MIT license](LICENSE).
 
 Articles and descriptions are under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
